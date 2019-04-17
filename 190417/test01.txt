@@ -1,14 +1,1 @@
-
-
-				c=20&code=a1f42d160846299d3acfdb8febc779232315a9e54758fcdb
-				
-				
-				
-				c=019@code=daf81b27974e90c033bbbc80a078afbb1ee1c1e14eee950a
-				
-				https://222.47.40.41/finpad/financing/fundapi/fundList!fundBasicInfo.do?c=019&code=daf81b27974e90c033bbbc80a078afbb1ee1c1e14eee950a&prodCode=241001
-				https://222.47.40.41/finpad/financing/fundapi/fundList!fundBasicInfo.do?c=020&code=a1f42d160846299d3acfdb8febc779232315a9e54758fcdb&prodCode=241001
-				https://222.47.40.41/finpad/financing/fundapi/fundList!fundBasicInfo.do?c=018&code=c3e1833ccb52c5bc3e069d34f2c06c3d7940228224ab6e09&prodCode=241001
-				
-				
-				
+190417 14£º10 update 
